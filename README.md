@@ -29,3 +29,9 @@ Conclusion:
 For simple datasets like FashionMNIST, a basic CNN is more efficient and effective.
 
 ResNet-style architectures are better suited for deeper models and more complex tasks, where their design can truly shine.
+
+-----------------------------------------
+
+Note for Chatbot:
+
+Execute in terminal using 'streamlit run app.py' command
